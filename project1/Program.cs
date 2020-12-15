@@ -15,6 +15,9 @@ namespace project1
             CreateCustomer();
             CreateDeliveryNote();
             CreateTransporter();
+
+            //TODO: Maak een instantie aan van het platform.
+            //TODO: Doe dit op de manier in functie van het ontwikkelpatroon.
         }
 
         public static void TestGenerateWord()

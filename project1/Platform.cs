@@ -2,6 +2,7 @@ using System.Collections.Generic;
 
 namespace project1
 {
+    //TODO: Maak de nodige wijzigingen om het conform het UML-schema te doen voor wat betreft Paltform.
     public class Platform
     {
         // Fields of the Platform class.
